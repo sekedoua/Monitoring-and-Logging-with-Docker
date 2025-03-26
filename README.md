@@ -144,16 +144,15 @@ services:
 ### ** Configure Logstash for Logging  **
 ```bash
 input 	{
-		  file 	{
-					path => "/var/log/app.log"
-					start_position => "beginning"
-				}
+	file 	{
+		path => "/var/log/app.log"
+			}
 		}
 
 output 	{
-  elasticsearch {
-					hosts => ["elasticsearch:9200"]
-					index => "docker-logs"
+	elasticsearch {
+		hosts => ["elasticsearch:9200"]
+		index => "docker-logs"
 				}
 		}
 ```
