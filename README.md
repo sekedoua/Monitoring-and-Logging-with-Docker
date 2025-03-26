@@ -6,8 +6,7 @@
 ✅ Real-time monitoring of container metrics with Prometheus & Grafana
 ✅ Centralized logging using ELK stack (Elasticsearch, Logstash, Kibana)
 ✅ Hands-on experience with observability tools in Docker environments
-  ![Stack](/img/Stack-Monitoring.png)
-![Graphana](/img/Stack-Monitoring.png)
+
  ![ELK](/img/2025-03-26010513.png)
 ![ELK](/img/2025-03-26010625.png)
 ## **Prerequisites**
