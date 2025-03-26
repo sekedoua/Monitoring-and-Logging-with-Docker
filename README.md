@@ -1,5 +1,3 @@
-#  Basic Docker project
-
 ## **Project overview**
  *  Set up monitoring and logging for Docker containers using Prometheus, Grafana, and the ELK stack (Elasticsearch, Logstash, Kibana)
  ### **Final Outcome**
@@ -7,14 +5,13 @@
 ✅ Centralized logging using ELK stack (Elasticsearch, Logstash, Kibana)
 ✅ Hands-on experience with observability tools in Docker environments
 
- ![ELK](/img/2025-03-26010513.png)
+![ELK](/img/2025-03-26010513.png)
 ![ELK](/img/2025-03-26010625.png)
+
 ## **Prerequisites**
 
 * Python  3.13.1 (Flask 3.1.0) 
 * Docker version 27.5.1
- 
- 
 
 ## **Project Structure**
 
